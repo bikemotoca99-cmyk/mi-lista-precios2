@@ -180,8 +180,20 @@ const listaDePrecios = [
         "tipo": "ACCESORIOS"
     },
     {
+        "nombre": "AMORTIGUADOR HORSE MOTOSONIC/ZETAS",
+        "precio1": 18.5,
+        "stock": "N/A",
+        "tipo": "CARROCERIA"
+    },
+    {
         "nombre": "AMORTIGUADOR MONOSHOCK DE DT200 HONGJU",
         "precio1": 30.0,
+        "stock": "N/A",
+        "tipo": "CARROCERIA"
+    },
+    {
+        "nombre": "AMORTIGUADOR MONOSHOCK DE DT200 RK200 ZETAS",
+        "precio1": 26.0,
         "stock": "N/A",
         "tipo": "CARROCERIA"
     },
@@ -210,6 +222,12 @@ const listaDePrecios = [
         "tipo": "CARROCERIA"
     },
     {
+        "nombre": "ANILLOS CG150 STD ZETAS",
+        "precio1": 1.5,
+        "stock": "N/A",
+        "tipo": "MOTOR"
+    },
+    {
         "nombre": "ANILLOS DE MOTO",
         "precio1": 1.5,
         "stock": "N/A",
@@ -235,7 +253,7 @@ const listaDePrecios = [
     },
     {
         "nombre": "ANTIRUIDO DE RULERA GY6 REY AGRE",
-        "precio1": 1.0,
+        "precio1": 0.5,
         "stock": "N/A",
         "tipo": "MOTOR"
     },
@@ -414,6 +432,12 @@ const listaDePrecios = [
         "tipo": "MOTOR"
     },
     {
+        "nombre": "BALANCINES CG150/TX200/UM200 ZETAS",
+        "precio1": 1.0,
+        "stock": "N/A",
+        "tipo": "MOTOR"
+    },
+    {
         "nombre": "BANDA CROCHERA GY6  REY",
         "precio1": 9.0,
         "stock": "N/A",
@@ -462,6 +486,12 @@ const listaDePrecios = [
         "tipo": "CARROCERIA"
     },
     {
+        "nombre": "BARRA POSAPIE BERA REY AGRE",
+        "precio1": 5.5,
+        "stock": "N/A",
+        "tipo": "CARROCERIA"
+    },
+    {
         "nombre": "BARRA POSAPIE HORSE 1 BSN",
         "precio1": 9.6,
         "stock": "N/A",
@@ -488,6 +518,12 @@ const listaDePrecios = [
     {
         "nombre": "BARRAS ESTABILIZADORAS ROTULADAS",
         "precio1": 5.5,
+        "stock": "N/A",
+        "tipo": "ACCESORIOS"
+    },
+    {
+        "nombre": "BARRITAS LED PAR 17CM AZUL,ROJO,BLANCO ZETAS",
+        "precio1": 1.5,
         "stock": "N/A",
         "tipo": "ACCESORIOS"
     },
@@ -524,6 +560,12 @@ const listaDePrecios = [
     {
         "nombre": "BASE DE GUARDAFANGO SBR REY",
         "precio1": 2.5,
+        "stock": "N/A",
+        "tipo": "CARROCERIA"
+    },
+    {
+        "nombre": "BASE DE LUZ DE CRUCE TRASERO EX EXPRESS ZETAS PAR",
+        "precio1": 2.0,
         "stock": "N/A",
         "tipo": "CARROCERIA"
     },
@@ -594,6 +636,12 @@ const listaDePrecios = [
         "tipo": "CARROCERIA"
     },
     {
+        "nombre": "BASTONES DE MD LECHUZA REY AGRE",
+        "precio1": 60.0,
+        "stock": "N/A",
+        "tipo": "CARROCERIA"
+    },
+    {
         "nombre": "BASTONES DE NEW HORSE/HORSE 1 REY AGRE",
         "precio1": 39.0,
         "stock": "N/A",
@@ -626,6 +674,18 @@ const listaDePrecios = [
     {
         "nombre": "BATERIA DE SCOOTER RT",
         "precio1": 17.5,
+        "stock": "N/A",
+        "tipo": "PARTES ELECTRICAS"
+    },
+    {
+        "nombre": "BATERIA KLR REY AGRE",
+        "precio1": 26.0,
+        "stock": "N/A",
+        "tipo": "PARTES ELECTRICAS"
+    },
+    {
+        "nombre": "BATERIA VSTROM REY AGRE",
+        "precio1": 24.0,
         "stock": "N/A",
         "tipo": "PARTES ELECTRICAS"
     },
@@ -709,7 +769,7 @@ const listaDePrecios = [
     },
     {
         "nombre": "BOBINA DE CHISPA 150/200 REY AGRE",
-        "precio1": 2.5,
+        "precio1": 2.1,
         "stock": "N/A",
         "tipo": "PARTES ELECTRICAS"
     },
@@ -742,12 +802,6 @@ const listaDePrecios = [
         "precio1": 3.0,
         "stock": "N/A",
         "tipo": "BICICLETA"
-    },
-    {
-        "nombre": "BOLSO DE MOTORIZADO RT",
-        "precio1": 2.0,
-        "stock": "N/A",
-        "tipo": "ACCESORIOS"
     },
     {
         "nombre": "BOMBA DE ACEITE BERA CON CAPARAZON",
@@ -924,6 +978,18 @@ const listaDePrecios = [
         "tipo": "ACCESORIOS"
     },
     {
+        "nombre": "BOMBILLO DE FARO H4 LED CON FLASH",
+        "precio1": 3.6,
+        "stock": "N/A",
+        "tipo": "ACCESORIOS"
+    },
+    {
+        "nombre": "BOMBILLO DE FARO LED 2 CONTACTO 5LED CON FLASH ZETAS",
+        "precio1": 3.5,
+        "stock": "N/A",
+        "tipo": "ACCESORIOS"
+    },
+    {
         "nombre": "BOMBILLO DE FARO LED 2 CONTACTO SAKIWA Y BENF",
         "precio1": 3.5,
         "stock": "N/A",
@@ -1068,6 +1134,12 @@ const listaDePrecios = [
         "tipo": "PARTES ELECTRICAS"
     },
     {
+        "nombre": "BURRO DE PARAR CG150 ZETAS",
+        "precio1": 6.0,
+        "stock": "N/A",
+        "tipo": "CARROCERIA"
+    },
+    {
         "nombre": "BURRO DE PARAR HORSE NUEVO",
         "precio1": 5.0,
         "stock": "N/A",
@@ -1200,12 +1272,6 @@ const listaDePrecios = [
         "tipo": "PARTES ELECTRICAS"
     },
     {
-        "nombre": "CACHO 3.50-10 HONGJU",
-        "precio1": 17.0,
-        "stock": "N/A",
-        "tipo": "CAUCHOS Y TRIPAS"
-    },
-    {
         "nombre": "CADENA ACEITE SCOOTER BENF",
         "precio1": 2.0,
         "stock": "N/A",
@@ -1296,8 +1362,8 @@ const listaDePrecios = [
         "tipo": "MOTOR"
     },
     {
-        "nombre": "CADENA DORADA YIDO 428",
-        "precio1": 0.0,
+        "nombre": "CADENA DORADA REY AGRE",
+        "precio1": 6.0,
         "stock": "N/A",
         "tipo": "MOTOR"
     },
@@ -1346,6 +1412,12 @@ const listaDePrecios = [
     {
         "nombre": "CAJA GN125 BENF",
         "precio1": 26.0,
+        "stock": "N/A",
+        "tipo": "MOTOR"
+    },
+    {
+        "nombre": "CAJA HORSE REY AGRE",
+        "precio1": 12.0,
         "stock": "N/A",
         "tipo": "MOTOR"
     },
@@ -1470,10 +1542,28 @@ const listaDePrecios = [
         "tipo": "MOTOR"
     },
     {
+        "nombre": "CAMPANA SOLA 70/73T REY AGRE",
+        "precio1": 6.0,
+        "stock": "N/A",
+        "tipo": "MOTOR"
+    },
+    {
+        "nombre": "CANDADO ANTIROBO PARA CASCO ZETAS",
+        "precio1": 4.0,
+        "stock": "N/A",
+        "tipo": "ACCESORIOS"
+    },
+    {
         "nombre": "CANDADO DE BICICLETA",
         "precio1": 2.5,
         "stock": "N/A",
         "tipo": "BICICLETA"
+    },
+    {
+        "nombre": "CANDADO DE DISCO CON ALARMA ZETAS",
+        "precio1": 13.0,
+        "stock": "N/A",
+        "tipo": "ACCESORIOS"
     },
     {
         "nombre": "CARBONERA 150",
@@ -1556,6 +1646,12 @@ const listaDePrecios = [
     {
         "nombre": "CARBURADOR PZ30 RT",
         "precio1": 10.0,
+        "stock": "N/A",
+        "tipo": "MOTOR"
+    },
+    {
+        "nombre": "CARBURADOR R1 REY AGRE",
+        "precio1": 14.0,
         "stock": "N/A",
         "tipo": "MOTOR"
     },
@@ -1668,6 +1764,12 @@ const listaDePrecios = [
         "tipo": "ACCESORIOS"
     },
     {
+        "nombre": "CAUCHO 100/80-14 REY AGRE",
+        "precio1": 28.0,
+        "stock": "N/A",
+        "tipo": "CAUCHOS Y TRIPAS"
+    },
+    {
         "nombre": "CAUCHO 100/90-18 TIMSUN",
         "precio1": 49.0,
         "stock": "N/A",
@@ -1676,12 +1778,6 @@ const listaDePrecios = [
     {
         "nombre": "CAUCHO 110/70-17 SM",
         "precio1": 23.0,
-        "stock": "N/A",
-        "tipo": "CAUCHOS Y TRIPAS"
-    },
-    {
-        "nombre": "CAUCHO 110/90-16 BENF",
-        "precio1": 35.0,
         "stock": "N/A",
         "tipo": "CAUCHOS Y TRIPAS"
     },
@@ -1718,12 +1814,6 @@ const listaDePrecios = [
     {
         "nombre": "CAUCHO 130/70-13 HONGJU",
         "precio1": 28.0,
-        "stock": "N/A",
-        "tipo": "CAUCHOS Y TRIPAS"
-    },
-    {
-        "nombre": "CAUCHO 130/80-17 EDGE TIRE",
-        "precio1": 40.0,
         "stock": "N/A",
         "tipo": "CAUCHOS Y TRIPAS"
     },
@@ -1831,7 +1921,13 @@ const listaDePrecios = [
     },
     {
         "nombre": "CAUCHO 3.00-18 TUCAUCHO",
-        "precio1": 16.0,
+        "precio1": 17.0,
+        "stock": "N/A",
+        "tipo": "CAUCHOS Y TRIPAS"
+    },
+    {
+        "nombre": "CAUCHO 3.50-10 HONGJU",
+        "precio1": 17.0,
         "stock": "N/A",
         "tipo": "CAUCHOS Y TRIPAS"
     },
@@ -1855,12 +1951,6 @@ const listaDePrecios = [
     },
     {
         "nombre": "CAUCHO 4.10-18 RTM-098 PRADO TIRE",
-        "precio1": 40.0,
-        "stock": "N/A",
-        "tipo": "CAUCHOS Y TRIPAS"
-    },
-    {
-        "nombre": "CAUCHO 4.10-18 RTM-101 PRADO TIRE",
         "precio1": 40.0,
         "stock": "N/A",
         "tipo": "CAUCHOS Y TRIPAS"
@@ -1898,12 +1988,6 @@ const listaDePrecios = [
     {
         "nombre": "CAUCHO 90/90-18 TIMSUN",
         "precio1": 43.5,
-        "stock": "N/A",
-        "tipo": "CAUCHOS Y TRIPAS"
-    },
-    {
-        "nombre": "CAUCHO 90/90-18 TT EDGE TIRE",
-        "precio1": 21.0,
         "stock": "N/A",
         "tipo": "CAUCHOS Y TRIPAS"
     },
@@ -2082,6 +2166,12 @@ const listaDePrecios = [
         "tipo": "MOTOR"
     },
     {
+        "nombre": "CIG\u00dcE\u00d1AL CG150 REY AGRE",
+        "precio1": 26.5,
+        "stock": "N/A",
+        "tipo": "MOTOR"
+    },
+    {
         "nombre": "CIG\u00dcE\u00d1AL CG200 ESTRIA REY AGRE",
         "precio1": 29.5,
         "stock": "N/A",
@@ -2185,7 +2275,7 @@ const listaDePrecios = [
     },
     {
         "nombre": "CILINDRO DE BERA R1 REY AGRE",
-        "precio1": 25.0,
+        "precio1": 26.0,
         "stock": "N/A",
         "tipo": "MOTOR"
     },
@@ -2233,7 +2323,7 @@ const listaDePrecios = [
     },
     {
         "nombre": "CILINDRO DE HORSE REY AGRE",
-        "precio1": 20.0,
+        "precio1": 19.8,
         "stock": "N/A",
         "tipo": "MOTOR"
     },
@@ -2245,7 +2335,7 @@ const listaDePrecios = [
     },
     {
         "nombre": "CILINDRO DE JAGUAR 150 REY AGRE",
-        "precio1": 20.0,
+        "precio1": 19.0,
         "stock": "N/A",
         "tipo": "MOTOR"
     },
@@ -2382,6 +2472,12 @@ const listaDePrecios = [
         "tipo": "ACCESORIOS"
     },
     {
+        "nombre": "COLITA DELANTERA EK EXPRESS NEGRO",
+        "precio1": 1.0,
+        "stock": "N/A",
+        "tipo": "ACCESORIOS"
+    },
+    {
         "nombre": "CONCHA DE TUBO DE ESCAPE HORSE BENF",
         "precio1": 1.5,
         "stock": "N/A",
@@ -2466,13 +2562,13 @@ const listaDePrecios = [
         "tipo": "CARROCERIA"
     },
     {
-        "nombre": "CORONA PLATEADA RAYO BSN",
-        "precio1": 4.4,
+        "nombre": "CORONA PLATEADA RAYO HONGJU",
+        "precio1": 3.0,
         "stock": "N/A",
         "tipo": "CARROCERIA"
     },
     {
-        "nombre": "CORONA PLATEADA RAYO HONGJU",
+        "nombre": "CORONA PLATEADA RAYO REY AGRE",
         "precio1": 3.0,
         "stock": "N/A",
         "tipo": "CARROCERIA"
@@ -2496,8 +2592,38 @@ const listaDePrecios = [
         "tipo": "MOTOR"
     },
     {
+        "nombre": "CORREA 743-20-30 MITSUBOSHI",
+        "precio1": 3.5,
+        "stock": "N/A",
+        "tipo": "MOTOR"
+    },
+    {
+        "nombre": "CORREA 788-17-28 MITSUBOSHI",
+        "precio1": 3.5,
+        "stock": "N/A",
+        "tipo": "MOTOR"
+    },
+    {
+        "nombre": "CORREA 815-20-30 MITSUBOSHI",
+        "precio1": 3.5,
+        "stock": "N/A",
+        "tipo": "MOTOR"
+    },
+    {
+        "nombre": "CORREA 835-20-30  MITSUBOSHI",
+        "precio1": 3.5,
+        "stock": "N/A",
+        "tipo": "MOTOR"
+    },
+    {
         "nombre": "CORREA 835-20-30 BSN",
         "precio1": 4.5,
+        "stock": "N/A",
+        "tipo": "MOTOR"
+    },
+    {
+        "nombre": "CORREA 842-20-30  MITSUBOSHI",
+        "precio1": 3.5,
         "stock": "N/A",
         "tipo": "MOTOR"
     },
@@ -2520,6 +2646,12 @@ const listaDePrecios = [
         "tipo": "MOTOR"
     },
     {
+        "nombre": "CORREA 922-22.5-30 MITSUBOSHI",
+        "precio1": 4.0,
+        "stock": "N/A",
+        "tipo": "MOTOR"
+    },
+    {
         "nombre": "CORREA DE BATERIA BENF",
         "precio1": 3.5,
         "stock": "N/A",
@@ -2538,6 +2670,12 @@ const listaDePrecios = [
         "tipo": "MOTOR"
     },
     {
+        "nombre": "CREMALLERA 150 REY AGRE",
+        "precio1": 6.2,
+        "stock": "N/A",
+        "tipo": "MOTOR"
+    },
+    {
         "nombre": "CREMALLERA 150 SAKIWA",
         "precio1": 10.0,
         "stock": "N/A",
@@ -2546,6 +2684,18 @@ const listaDePrecios = [
     {
         "nombre": "CREMALLERA 200 BENF",
         "precio1": 10.0,
+        "stock": "N/A",
+        "tipo": "MOTOR"
+    },
+    {
+        "nombre": "CREMALLERA 200 REY AGRE",
+        "precio1": 9.0,
+        "stock": "N/A",
+        "tipo": "MOTOR"
+    },
+    {
+        "nombre": "CREMALLERA 200 ZETAS",
+        "precio1": 8.0,
         "stock": "N/A",
         "tipo": "MOTOR"
     },
@@ -3048,6 +3198,12 @@ const listaDePrecios = [
         "tipo": "CARROCERIA"
     },
     {
+        "nombre": "ESPEJOS DE BERA CUADRADOS PATA CORTA  ZETAS",
+        "precio1": 3.6,
+        "stock": "N/A",
+        "tipo": "CARROCERIA"
+    },
+    {
         "nombre": "ESPEJOS DE EK EXPRESS MOBILE",
         "precio1": 2.0,
         "stock": "N/A",
@@ -3224,6 +3380,12 @@ const listaDePrecios = [
     {
         "nombre": "FARO DE EX EXPRESS MOBILE",
         "precio1": 14.5,
+        "stock": "N/A",
+        "tipo": "CARROCERIA"
+    },
+    {
+        "nombre": "FARO DE EX EXPRESS ZETAS",
+        "precio1": 10.0,
         "stock": "N/A",
         "tipo": "CARROCERIA"
     },
@@ -3546,6 +3708,18 @@ const listaDePrecios = [
         "tipo": "CARROCERIA"
     },
     {
+        "nombre": "GUARDAFANGO DELANTERO HORSE 1 ZETAS",
+        "precio1": 10.0,
+        "stock": "N/A",
+        "tipo": "CARROCERIA"
+    },
+    {
+        "nombre": "GUARDAFANGO DELANTERO TORO JAGUAR AZUL GRIS NEGRO ROJO ZETAS",
+        "precio1": 10.0,
+        "stock": "N/A",
+        "tipo": "CARROCERIA"
+    },
+    {
         "nombre": "GUARDAFANGO EK EXPRESS BSN",
         "precio1": 8.0,
         "stock": "N/A",
@@ -3566,6 +3740,12 @@ const listaDePrecios = [
     {
         "nombre": "GUARDAFANGO SPEED 200 REY AGRE",
         "precio1": 10.5,
+        "stock": "N/A",
+        "tipo": "CARROCERIA"
+    },
+    {
+        "nombre": "GUARDAFANGO TRASERO BERA EK MORADO Y ROJO",
+        "precio1": 9.0,
         "stock": "N/A",
         "tipo": "CARROCERIA"
     },
@@ -3894,6 +4074,12 @@ const listaDePrecios = [
         "tipo": "MOTOR"
     },
     {
+        "nombre": "KIT DE GOMAS REY AGRE",
+        "precio1": 2.0,
+        "stock": "N/A",
+        "tipo": "ACCESORIOS"
+    },
+    {
         "nombre": "KIT DE REPARACION CARBURADOR GY6",
         "precio1": 2.0,
         "stock": "N/A",
@@ -4063,6 +4249,12 @@ const listaDePrecios = [
     },
     {
         "nombre": "LLAVE DE GASOLINA HORSE 1 NUEVO",
+        "precio1": 2.0,
+        "stock": "N/A",
+        "tipo": "CARROCERIA"
+    },
+    {
+        "nombre": "LLAVE DE GASOLINA HORSE 1 REY AGRE",
         "precio1": 2.0,
         "stock": "N/A",
         "tipo": "CARROCERIA"
@@ -4284,6 +4476,18 @@ const listaDePrecios = [
         "tipo": "PARTES ELECTRICAS"
     },
     {
+        "nombre": "MALETA CUADRADA 32L REY AGRE",
+        "precio1": 60.0,
+        "stock": "N/A",
+        "tipo": "ACCESORIOS"
+    },
+    {
+        "nombre": "MALETA CUADRADA 45L REY AGRE",
+        "precio1": 65.0,
+        "stock": "N/A",
+        "tipo": "ACCESORIOS"
+    },
+    {
         "nombre": "MALLA DE ASIENTO BENF",
         "precio1": 2.7,
         "stock": "N/A",
@@ -4370,6 +4574,12 @@ const listaDePrecios = [
     {
         "nombre": "MANDOS DE SBR HONGJU",
         "precio1": 6.0,
+        "stock": "N/A",
+        "tipo": "PARTES ELECTRICAS"
+    },
+    {
+        "nombre": "MANDOS RK200 REY AGRE",
+        "precio1": 7.2,
         "stock": "N/A",
         "tipo": "PARTES ELECTRICAS"
     },
@@ -4818,6 +5028,12 @@ const listaDePrecios = [
         "tipo": "CARROCERIA"
     },
     {
+        "nombre": "PATA DE CAMBIO EK EXPRESS NEGRO REY AGRE",
+        "precio1": 1.5,
+        "stock": "N/A",
+        "tipo": "CARROCERIA"
+    },
+    {
         "nombre": "PATA DE CAMBIO HORSE MOBILE",
         "precio1": 1.5,
         "stock": "N/A",
@@ -4932,6 +5148,12 @@ const listaDePrecios = [
         "tipo": "CARROCERIA"
     },
     {
+        "nombre": "PATA DE PRENDER GY6 MOTOSONIC",
+        "precio1": 2.5,
+        "stock": "N/A",
+        "tipo": "CARROCERIA"
+    },
+    {
         "nombre": "PATA DE PRENDER HORSE CURVO RT",
         "precio1": 3.0,
         "stock": "N/A",
@@ -4948,6 +5170,12 @@ const listaDePrecios = [
         "precio1": 3.5,
         "stock": "N/A",
         "tipo": "CARROCERIA"
+    },
+    {
+        "nombre": "PATICO CON LUZ REY AGRE",
+        "precio1": 2.0,
+        "stock": "N/A",
+        "tipo": "ACCESORIOS"
     },
     {
         "nombre": "PATINES DE BERA DT 200 REY AGRE",
@@ -5216,6 +5444,12 @@ const listaDePrecios = [
     {
         "nombre": "PISTON DE BERA ESPECIAL STD ESPECIAL BENF",
         "precio1": 5.0,
+        "stock": "N/A",
+        "tipo": "MOTOR"
+    },
+    {
+        "nombre": "PISTON DE BERA ESPECIAL STD MOTOSONIC",
+        "precio1": 4.0,
         "stock": "N/A",
         "tipo": "MOTOR"
     },
@@ -5520,6 +5754,12 @@ const listaDePrecios = [
         "tipo": "CARROCERIA"
     },
     {
+        "nombre": "PORTA BANDA DE BERA REY AGRE",
+        "precio1": 8.5,
+        "stock": "N/A",
+        "tipo": "CARROCERIA"
+    },
+    {
         "nombre": "PORTA BANDA DE JAGUAR",
         "precio1": 8.0,
         "stock": "N/A",
@@ -5592,6 +5832,12 @@ const listaDePrecios = [
         "tipo": "ACCESORIOS"
     },
     {
+        "nombre": "PORTA MALETA DE METAL REY AGRE",
+        "precio1": 7.5,
+        "stock": "N/A",
+        "tipo": "ACCESORIOS"
+    },
+    {
         "nombre": "PORTA MALETA METAL REY AGRE",
         "precio1": 8.0,
         "stock": "N/A",
@@ -5600,6 +5846,12 @@ const listaDePrecios = [
     {
         "nombre": "PORTA MALETA PLASTICO DOBLE COLOR MOTOSONIC",
         "precio1": 8.0,
+        "stock": "N/A",
+        "tipo": "ACCESORIOS"
+    },
+    {
+        "nombre": "PORTA MALETA PLASTICO NUEVO REY AGRE",
+        "precio1": 6.0,
         "stock": "N/A",
         "tipo": "ACCESORIOS"
     },
@@ -5630,6 +5882,12 @@ const listaDePrecios = [
     {
         "nombre": "PORTA PLACA EK/HORSE ALUMINIO",
         "precio1": 6.0,
+        "stock": "N/A",
+        "tipo": "ACCESORIOS"
+    },
+    {
+        "nombre": "PORTA PLACA PLASTICO REY AGRE",
+        "precio1": 1.5,
         "stock": "N/A",
         "tipo": "ACCESORIOS"
     },
@@ -5666,6 +5924,12 @@ const listaDePrecios = [
     {
         "nombre": "POSA PIE TRASERO GN125 REY AGRE",
         "precio1": 2.0,
+        "stock": "N/A",
+        "tipo": "CARROCERIA"
+    },
+    {
+        "nombre": "POSA PIE TRASERO HORSE AZUL Y ROJO ZETAS",
+        "precio1": 2.3,
         "stock": "N/A",
         "tipo": "CARROCERIA"
     },
@@ -5929,7 +6193,7 @@ const listaDePrecios = [
     },
     {
         "nombre": "RECTIFICADOR HORSE REY AGRE",
-        "precio1": 2.8,
+        "precio1": 2.55,
         "stock": "N/A",
         "tipo": "PARTES ELECTRICAS"
     },
@@ -5954,6 +6218,12 @@ const listaDePrecios = [
     {
         "nombre": "RECTIFICADOR OWEN GS BSN",
         "precio1": 5.5,
+        "stock": "N/A",
+        "tipo": "PARTES ELECTRICAS"
+    },
+    {
+        "nombre": "RECTIFICADOR TX200 REY AGRE",
+        "precio1": 4.5,
         "stock": "N/A",
         "tipo": "PARTES ELECTRICAS"
     },
@@ -6067,7 +6337,7 @@ const listaDePrecios = [
     },
     {
         "nombre": "ROLINERA 6006",
-        "precio1": 2.0,
+        "precio1": 1.2,
         "stock": "N/A",
         "tipo": "MOTOR"
     },
@@ -6103,7 +6373,7 @@ const listaDePrecios = [
     },
     {
         "nombre": "ROLINERA 6207",
-        "precio1": 1.8,
+        "precio1": 2.0,
         "stock": "N/A",
         "tipo": "MOTOR"
     },
@@ -6337,6 +6607,12 @@ const listaDePrecios = [
     },
     {
         "nombre": "SENSOR DE CAMBIO CG150",
+        "precio1": 1.5,
+        "stock": "N/A",
+        "tipo": "MOTOR"
+    },
+    {
+        "nombre": "SENSOR DE CAMBIO HORSE ZETAS",
         "precio1": 1.5,
         "stock": "N/A",
         "tipo": "MOTOR"
@@ -6960,6 +7236,12 @@ const listaDePrecios = [
         "tipo": "CARROCERIA"
     },
     {
+        "nombre": "TAPA DE GASOLINA HORSE REY AGRE",
+        "precio1": 5.2,
+        "stock": "N/A",
+        "tipo": "CARROCERIA"
+    },
+    {
         "nombre": "TAPA DE GASOLINA HORSE-BERA BENF",
         "precio1": 5.5,
         "stock": "N/A",
@@ -7068,6 +7350,12 @@ const listaDePrecios = [
         "tipo": "CARROCERIA"
     },
     {
+        "nombre": "TAPA PI\u00d1ON DE HORSE ZETAS",
+        "precio1": 4.0,
+        "stock": "N/A",
+        "tipo": "CARROCERIA"
+    },
+    {
         "nombre": "TAPA PU\u00d1O PLASTICO  TIPO ALAS HONGJU",
         "precio1": 4.2,
         "stock": "N/A",
@@ -7122,16 +7410,16 @@ const listaDePrecios = [
         "tipo": "ACCESORIOS"
     },
     {
+        "nombre": "TAPAS LATERALES DE NEW HORSE AZUL ROJO Y NEGRO ZETAS",
+        "precio1": 11.4,
+        "stock": "N/A",
+        "tipo": "CARROCERIA"
+    },
+    {
         "nombre": "TEIPE FC GRANDE",
         "precio1": 1.0,
         "stock": "N/A",
         "tipo": "ACEITES"
-    },
-    {
-        "nombre": "TENSOR DE CADENA DE TIEMPO",
-        "precio1": 2.5,
-        "stock": "N/A",
-        "tipo": "MOTOR"
     },
     {
         "nombre": "TENSOR DE CADENA DE TIEMPO GN125 REY AGRE",
@@ -7146,10 +7434,22 @@ const listaDePrecios = [
         "tipo": "MOTOR"
     },
     {
+        "nombre": "TENSOR DE CADENA DE TIEMPO REY AGRE",
+        "precio1": 2.0,
+        "stock": "N/A",
+        "tipo": "MOTOR"
+    },
+    {
         "nombre": "TERMO DE AGUA BICICLETA",
         "precio1": 2.0,
         "stock": "N/A",
         "tipo": "BICICLETA"
+    },
+    {
+        "nombre": "TIJERA DE BERA SBR REY AGRE",
+        "precio1": 13.5,
+        "stock": "N/A",
+        "tipo": "CARROCERIA"
     },
     {
         "nombre": "TIJERA DE BERA SOCIALISTA NUEVO",
@@ -7230,6 +7530,12 @@ const listaDePrecios = [
         "tipo": "ACCESORIOS"
     },
     {
+        "nombre": "TORNILLOS DE VALVULAS PAR ZETAS",
+        "precio1": 0.5,
+        "stock": "N/A",
+        "tipo": "MOTOR"
+    },
+    {
         "nombre": "TORTA LED BERA RT",
         "precio1": 4.0,
         "stock": "N/A",
@@ -7280,6 +7586,12 @@ const listaDePrecios = [
     {
         "nombre": "TRIPA 3.00-19 MEGAZUKI",
         "precio1": 3.2,
+        "stock": "N/A",
+        "tipo": "CAUCHOS Y TRIPAS"
+    },
+    {
+        "nombre": "TRIPA 4.00.17 DR",
+        "precio1": 3.5,
         "stock": "N/A",
         "tipo": "CAUCHOS Y TRIPAS"
     },
@@ -7483,6 +7795,12 @@ const listaDePrecios = [
     },
     {
         "nombre": "VOLANTE BERA SBR NEGRO BENF",
+        "precio1": 5.5,
+        "stock": "N/A",
+        "tipo": "CARROCERIA"
+    },
+    {
+        "nombre": "VOLANTE DE OWEN Y BERA ZETAS",
         "precio1": 5.5,
         "stock": "N/A",
         "tipo": "CARROCERIA"
